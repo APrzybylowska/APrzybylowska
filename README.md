@@ -1,4 +1,4 @@
-## Hey, I am Agnieszka! 👋
+## Hi, I am Agnieszka! 👋
 
 :school: I am Mechatronics Engineer graduated from Wroclaw University of Science and Technology.
 
