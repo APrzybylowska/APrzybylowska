@@ -2,13 +2,11 @@
 
 :school: I am Mechatronics Engineer graduated from Wroclaw University of Science and Technology.
 
-:construction_worker_woman:	I am a highly motivated and curious person with a passion for the intersection of
-technology and industry.
+:construction_worker_woman:	I am a highly motivated and curious person with a passion for the intersection of IT and industry.
 
-:robot:	Currently, I work as a Robotics Software Engineer using Python, where I combine my previous experience as a programmer of industrial
-robotics and automation control systems with the world of IT.
+:robot:	I am currently working as a Python Developer. I have several years of experience in the industry. Previously, I worked as an Automation and Robotics Engineer and as a Robotics Software Engineer.
 
-## :hammer_and_wrench: Languages and Tools :
+## Languages and technologies I use:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
@@ -21,7 +19,7 @@ robotics and automation control systems with the world of IT.
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;  
 </div>
 
-## :woman_teacher:	  What I am currently learning:
+## I am currently learning:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
